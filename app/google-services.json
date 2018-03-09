@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "4954657667",
+    "firebase_url": "https://club-moy-53a1a.firebaseio.com",
+    "project_id": "club-moy-53a1a",
+    "storage_bucket": "club-moy-53a1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4954657667:android:9d9700a1f80ddb99",
+        "android_client_info": {
+          "package_name": "com.example.b00663982.clubmoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4954657667-komtfpvmsriokva52jub4poqi4da7pvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYhoTQPEvdKWr39ip2I941VVT0lqLgZXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
